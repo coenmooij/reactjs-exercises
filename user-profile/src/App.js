@@ -6,7 +6,7 @@ import "./App.css";
 
 class App extends Component {
   state = {
-    image: "https://profile.actionsprout.com/default.jpeg",
+    image: "https://www.gravatar.com/avatar/?s=300&d=identicon&r=PG",
     name: "Coen",
     bio: "I am a developer",
     website: "https://react-exercises.coenmooij.nl/"
