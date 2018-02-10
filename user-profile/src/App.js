@@ -9,7 +9,7 @@ class App extends Component {
     image: "https://www.gravatar.com/avatar/?s=300&d=identicon&r=PG",
     name: "Coen",
     bio: "I am a developer",
-    website: "https://react-exercises.coenmooij.nl/"
+    website: "https://reactjs-exercises.coenmooij.nl/"
   };
   constructor(props) {
     super(props);
